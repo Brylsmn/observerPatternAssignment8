@@ -28,3 +28,4 @@
   <br>Ensure that the implementation follows object-oriented design principles and promotes loose coupling between the news agency and subscribers.
 
 # UML Class Diagram
+![Alt Text](https://scontent.fmnl8-3.fna.fbcdn.net/v/t1.15752-9/386833745_889146619104799_6802733080766412936_n.png?_nc_cat=102&ccb=1-7&_nc_sid=8cd0a2&_nc_eui2=AeFjwkM-kLxmlKyEKwG5HmKbU1ZMMxzJ5AtTVkwzHMnkC-4ChmBIFLjDkOjadubmp0BRa3ckEZ62IDtAKXmySK5Y&_nc_ohc=MSLjQT_NpzkAX_fLEVE&_nc_ht=scontent.fmnl8-3.fna&oh=03_AdRwTlkiV34rr3RLBuZ1pf-dbOQEPBSQBZAtChSLxxJ2TA&oe=65968A1A)
